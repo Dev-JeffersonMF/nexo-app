@@ -4,7 +4,7 @@
   "version": "2.4.0",
   "versionCode": 7,
   "apkUrl": "https://github.com/Dev-JeffersonMF/nexo-app/releases/download/v2.4.0/app-release.apk",
-  "sha256": "57e021e9a294db9f294b8e95142f1e021fae2d0bce4a5049499015f566ecbf66",
+  "sha256": "e4c1c9dd8699a477de292dd15eea4a1e969bde8fbb91f609ed98dc1cdf73ac73",
   "sizeBytes": 480123084,
   "notes": "Atualizacao automatica: o Nexo consulta, baixa, confere a assinatura e instala. Tela de novidades com Confirmado aparece uma unica vez. Aba de contatos redesenhada. Grupos do WhatsApp lidos no 4o filtro da aba Conversas.",
   "mandatory": false,
