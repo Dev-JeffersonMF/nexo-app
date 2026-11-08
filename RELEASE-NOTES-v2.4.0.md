@@ -27,7 +27,7 @@ Esta versão fecha o ciclo de atualização do Nexo: ele procura a versão nova,
 | Pacote | `com.jefferson.nexo` |
 | Versão | 2.4.0 (7) |
 | Android | 7.0+ (ARM) |
-| SHA-256 | `57e021e9a294db9f294b8e95142f1e021fae2d0bce4a5049499015f566ecbf66` |
+| SHA-256 | `e4c1c9dd8699a477de292dd15eea4a1e969bde8fbb91f609ed98dc1cdf73ac73` |
 | Certificado SHA-256 | `30405b638e6ffa9dfb9f05a72d59896957777a9ffd4903d1f02bd53cd42c95a9` |
 
 ## Instalação
