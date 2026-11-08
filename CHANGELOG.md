@@ -5,6 +5,34 @@ O formato segue [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e o 
 
 ---
 
+## [2.4.0] — 2026-11-08
+
+Versão da atualização automática, da tela "Confirmado" e do redesenho de contatos.
+
+### Adicionado
+
+- **Atualização automática**: consulta silenciosa ao abrir e diariamente via `JobScheduler`, download pelo `DownloadManager` e instalação com o instalador do Android.
+- **Conferência do APK**: SHA-256, tamanho, pacote, `versionCode` e assinatura digital comparados com o manifesto e com a instalação atual.
+- **Tela de novidades pós-atualização** com o botão **Confirmado**, exibida uma única vez por versão.
+- **Reabertura automática** do app após instalar (`MY_PACKAGE_REPLACED`).
+- **Aba de contatos redesenhada**: resumo, contadores, busca, estado por pessoa e bloqueio de chamada em um toque.
+- **Aba de grupos redesenhada**: leitura na aba Conversas pelo 4º filtro "Grupos" e importação de todos os grupos como ignorados.
+- **`latest.json`** no repositório público como fonte única da versão disponível.
+
+### Corrigido
+
+- Nomes de grupos lidos de `conversations_row_contact_name`, sem prévias de mensagem.
+- Falha na leitura de grupos encerra com erro claro em vez de importar conversas individuais.
+- Removido o aviso de atualização antigo, que duplicava a interface.
+
+### Alterado
+
+- O Nexo não navega mais para outras abas do WhatsApp.
+- APK corrompido ou incompleto é apagado antes de um novo download completo.
+- Versão 2.4.0 (`versionCode` 7).
+
+---
+
 ## [2.3.0] — 2026-11-07
 
 Versão de estabilidade e voz própria. Testada em **moto g84 5G (Android 15)**.
