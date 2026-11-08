@@ -1,0 +1,16 @@
+# Artefatos de build (o APK oficial vai nas Releases, não no Git)
+*.apk
+*.aab
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+
+# Temporários
+*.tmp
+*.log
