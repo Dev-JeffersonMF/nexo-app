@@ -4,7 +4,7 @@
 
 **Assistente pessoal para Android, em português, com voz própria e automação do dia a dia.**
 
-[![Versão](https://img.shields.io/badge/vers%C3%A3o-2.3.0-7C5CFF?style=flat-square)](#versão)
+[![Versão](https://img.shields.io/badge/vers%C3%A3o-2.4.0-7C5CFF?style=flat-square)](#versão)
 [![Android](https://img.shields.io/badge/Android-7.0%2B-3DDC84?style=flat-square&logo=android&logoColor=white)](#requisitos)
 [![Licença](https://img.shields.io/badge/licen%C3%A7a-propriet%C3%A1ria-FF4D6D?style=flat-square)](LICENSE.md)
 [![Status](https://img.shields.io/badge/status-em%20evolu%C3%A7%C3%A3o%20cont%C3%ADnua-00C2A8?style=flat-square)](#sempre-melhorando)
@@ -44,7 +44,7 @@ Ele foi pensado para funcionar **no seu aparelho**: a voz neural roda offline, a
 
 | | |
 | --- | --- |
-| **Versão atual** | 2.3.0 (versionCode 6) |
+| **Versão atual** | 2.4.0 (versionCode 7) |
 | **Pacote** | `com.jefferson.nexo` |
 | **Plataforma** | Android 7.0+ (ARM 64/32 bits) |
 | **Idioma** | Português do Brasil |
@@ -146,6 +146,16 @@ Se um modelo não carregar (memória baixa, arquivo corrompido ou aparelho incom
 
 **Requisitos de instalação:** o pacote é `com.jefferson.nexo`. Versões antigas com outro pacote instalam como um app separado.
 
+### Atualização automática
+
+A partir da 2.4.0, o próprio Nexo procura a versão nova, baixa e confere o APK antes de pedir a confirmação do Android. A fonte oficial é o manifesto `latest.json` deste repositório:
+
+```
+https://raw.githubusercontent.com/Dev-JeffersonMF/nexo-app/main/latest.json
+```
+
+O manifesto informa a versão, o endereço do APK, o tamanho e o SHA-256. O app recusa qualquer arquivo cujo hash, pacote, `versionCode` ou assinatura não confira. Depois de instalar, o Nexo reabre sozinho e mostra as novidades **uma única vez**, até você tocar em **Confirmado**.
+
 ---
 
 ## Verificação de autenticidade
@@ -155,8 +165,8 @@ Toda versão oficial é assinada com o certificado do Nexo. Antes de instalar, c
 | Item | Valor oficial |
 | --- | --- |
 | Pacote | `com.jefferson.nexo` |
-| Versão | `2.3.0` (versionCode `6`) |
-| SHA-256 do APK | `4a14663707dbd4d9dfff404bbc26cca85fbf962f72ea4416a06184628b03ed66` |
+| Versão | `2.4.0` (versionCode `7`) |
+| SHA-256 do APK | `57e021e9a294db9f294b8e95142f1e021fae2d0bce4a5049499015f566ecbf66` |
 | SHA-256 do certificado de assinatura | `30405b638e6ffa9dfb9f05a72d59896957777a9ffd4903d1f02bd53cd42c95a9` |
 | SHA-1 do certificado | `6afb7a0f24fe23f9fd31ffbe1b5bae613a54fa1d` |
 | Emissor do certificado | `CN=NEXO, OU=Android, O=NEXO, L=Matozinhos, ST=MG, C=BR` |

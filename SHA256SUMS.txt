@@ -1,2 +1,2 @@
-# SHA-256 do APK oficial — Nexo 2.3.0 (versionCode 6)
-4a14663707dbd4d9dfff404bbc26cca85fbf962f72ea4416a06184628b03ed66  app-release.apk
+# SHA-256 do APK oficial — Nexo 2.4.0 (versionCode 7)
+57e021e9a294db9f294b8e95142f1e021fae2d0bce4a5049499015f566ecbf66  app-release.apk
