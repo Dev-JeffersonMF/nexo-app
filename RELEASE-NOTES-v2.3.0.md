@@ -24,16 +24,16 @@ Primeira versão pública do Nexo. Assistente pessoal Android em português, com
 ## Instalação
 
 1. Baixe o `app-release.apk` e o `SHA256SUMS.txt`.
-2. Confira o SHA-256 ([guia](../docs/VERIFICACAO-APK.md)).
+2. Confira o SHA-256 ([guia de verificação](https://github.com/Dev-JeffersonMF/nexo-app/blob/main/docs/VERIFICACAO-APK.md)).
 3. Permita “Instalar apps desconhecidos” e instale.
 4. Conceda acessibilidade, sobreposição e bateria sem restrições.
 
 ## Aviso
 
-Distribuição oficial **somente** neste repositório. É proibido redistribuir, vender ou modificar o APK. Cópias não oficiais não são suportadas e podem conter malware. Leia a [licença](../LICENSE.md).
+Distribuição oficial **somente** neste repositório. É proibido redistribuir, vender ou modificar o APK. Cópias não oficiais não são suportadas e podem conter malware. Leia a [licença](https://github.com/Dev-JeffersonMF/nexo-app/blob/main/LICENSE.md).
 
 ## Erros conhecidos
 
-APK grande, primeira fala lenta e dependência do layout do WhatsApp. Lista completa em [docs/ERROS-CONHECIDOS.md](../docs/ERROS-CONHECIDOS.md).
+APK grande, primeira fala lenta e dependência do layout do WhatsApp. Lista completa em [erros conhecidos](https://github.com/Dev-JeffersonMF/nexo-app/blob/main/docs/ERROS-CONHECIDOS.md).
 
 **O Nexo está sempre melhorando.** Encontrou um problema? Abra uma issue com aparelho, versão do Android e passos para reproduzir.
