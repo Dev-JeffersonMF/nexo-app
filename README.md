@@ -157,25 +157,6 @@ O manifesto informa a versão, o endereço do APK, o tamanho e o SHA-256. O app 
 
 ---
 
-## Verificação de autenticidade
-
-Toda versão oficial é assinada com o certificado do Nexo. Antes de instalar, confira:
-
-| Item | Valor oficial |
-| --- | --- |
-| Pacote | `com.jefferson.nexo` |
-| Versão | `2.4.0` (versionCode `7`) |
-| SHA-256 do APK | `e4c1c9dd8699a477de292dd15eea4a1e969bde8fbb91f609ed98dc1cdf73ac73` |
-| SHA-256 do certificado de assinatura | `30405b638e6ffa9dfb9f05a72d59896957777a9ffd4903d1f02bd53cd42c95a9` |
-| SHA-1 do certificado | `6afb7a0f24fe23f9fd31ffbe1b5bae613a54fa1d` |
-| Emissor do certificado | `CN=NEXO, OU=Android, O=NEXO, L=Matozinhos, ST=MG, C=BR` |
-
-**Regra simples:** se o hash ou a assinatura não baterem, **não é o Nexo oficial**. Não instale.
-
-O passo a passo completo (Windows, Linux, macOS e Android) está em **[docs/VERIFICACAO-APK.md](docs/VERIFICACAO-APK.md)**.
-
----
-
 ## Aviso antipirataria
 
 O Nexo é um **software proprietário**. Este repositório é o **único canal oficial de distribuição**.
