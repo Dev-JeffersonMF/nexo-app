@@ -9,7 +9,7 @@
 [![Licença](https://img.shields.io/badge/licen%C3%A7a-propriet%C3%A1ria-FF4D6D?style=flat-square)](LICENSE.md)
 [![Status](https://img.shields.io/badge/status-em%20evolu%C3%A7%C3%A3o%20cont%C3%ADnua-00C2A8?style=flat-square)](#sempre-melhorando)
 
-[Download](#download-e-instalação) · [Verificar autenticidade](docs/VERIFICACAO-APK.md) · [Erros conhecidos](docs/ERROS-CONHECIDOS.md) · [Melhorias](docs/MELHORIAS.md) · [Licença](LICENSE.md)
+[Download](#download-e-instalação) · [Erros conhecidos](docs/ERROS-CONHECIDOS.md) · [Melhorias](docs/MELHORIAS.md) · [Licença](LICENSE.md)
 
 </div>
 
@@ -25,7 +25,6 @@
 - [Recursos](#recursos)
 - [Requisitos](#requisitos)
 - [Download e instalação](#download-e-instalação)
-- [Verificação de autenticidade](#verificação-de-autenticidade)
 - [Aviso antipirataria](#aviso-antipirataria)
 - [Erros conhecidos](#erros-conhecidos)
 - [Sempre melhorando](#sempre-melhorando)
