@@ -6,6 +6,16 @@ O Nexo é um projeto em **evolução contínua**. Esta página registra o que j�
 
 ## Já entregue
 
+### 3.0.0 — voz pela API, auto-bot e WhatsApp/Mídia
+
+| Área | Melhoria |
+| --- | --- |
+| Voz | Sukuna pela Fish Audio sem MP3 no APK; fala frase a frase com pré-busca e limite de 2,5 s. |
+| Auto-bot | Classificação corrigida com margem, evidência e regras de alta precisão; planos executados sem cair em Ajustes. |
+| WhatsApp | Envio pela seta `id/send` (nunca Enter); texto de mensagem e lista de transmissão extraídos corretamente; nenhum comando perdido. |
+| Mídia | `toca radio`, `para radio`, `toca musica`, `pula`, `voltar`, `pausar`, `continuar`, `parar`; OiTube em segundo plano e retorno ao Nexo. |
+| Instalação | APK caiu para ~129 MB (sem modelos/MP3 embarcados); OiTube instalado pela Play Store se ausente. |
+
 ### 2.3.0 — estabilidade e voz própria
 
 | Área | Melhoria |

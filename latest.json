@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "package": "com.jefferson.nexo",
-  "version": "2.4.0",
-  "versionCode": 7,
-  "apkUrl": "https://github.com/Dev-JeffersonMF/nexo-app/releases/download/v2.4.0/app-release.apk",
-  "sha256": "e4c1c9dd8699a477de292dd15eea4a1e969bde8fbb91f609ed98dc1cdf73ac73",
-  "sizeBytes": 480123084,
-  "notes": "Atualizacao automatica: o Nexo consulta, baixa, confere a assinatura e instala. Tela de novidades com Confirmado aparece uma unica vez. Aba de contatos redesenhada. Grupos do WhatsApp lidos no 4o filtro da aba Conversas.",
+  "version": "3.0.0",
+  "versionCode": 30,
+  "apkUrl": "https://github.com/Dev-JeffersonMF/nexo-app/releases/download/v3.0.0/app-release.apk",
+  "sha256": "735f5017c66d48bb0701ce7d90677f2a0b4f51a0b6c4badf90ecaa3e2d72b3e0",
+  "sizeBytes": 134994699,
+  "notes": "Nexo 3.0.0 (30): voz Sukuna pela Fish Audio sem MP3 no APK, fala frase a frase, auto-bot/neural corrigidos, WhatsApp pela seta e OiTube em segundo plano.",
   "mandatory": false,
   "minSupportedVersionCode": null,
-  "publishedAt": "2026-11-08T13:29:46Z"
+  "publishedAt": "2026-11-20T17:54:20.707178Z"
 }

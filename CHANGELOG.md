@@ -5,6 +5,38 @@ O formato segue [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e o 
 
 ---
 
+## [3.0.0] — 2026-11-20
+
+Versão 3.0.0 (`versionCode` 30). Voz pela Fish Audio sem MP3 no APK, fala frase
+a frase com pré-busca, auto-bot/rede neural corrigidos, WhatsApp com envio pela
+seta e música do OiTube em segundo plano.
+
+### Adicionado
+
+- Voz Sukuna via Fish Audio (`e7b28ee6cad44b0482ea8cc220ffdd14`) com banco
+  aprendido no aparelho; TTS do Android como reserva com limite de 2,5 s.
+- Regras de alta precisão no classificador neural e execução do plano
+  determinístico pelo auto-bot.
+- Instalação do OiTube pela Play Store quando o app não estiver presente.
+- Documentação do trajeto validado via adb em `docs/TRAJETO_WHATSAPP.md`.
+
+### Corrigido
+
+- Classificação errada de comandos como “Ajustes” ( Ímã `settings` ).
+- “Manda mensagem para o joão”, “avisa o joão que eu chego já” e mensagem para
+  lista de transmissão com o texto correto.
+- Envio no WhatsApp pela seta `id/send`, nunca `KEYCODE_ENTER`.
+- Comando novo deixou de ser engolido como resposta pendente.
+- `para radio`, `para musica`, `pula`, `voltar`, `pausar`, `continuar` e `parar`.
+- OiTube em segundo plano com retorno automático ao Nexo.
+
+### Alterado
+
+- MP3 históricos movidos para `audio/voz/` no repositório privado (fora do APK).
+- Versão 2.4.0 (`versionCode` 7) → **3.0.0 (`versionCode` 30)**.
+
+---
+
 ## [2.4.0] — 2026-11-08
 
 Versão da atualização automática, da tela "Confirmado" e do redesenho de contatos.

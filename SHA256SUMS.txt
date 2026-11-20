@@ -1,2 +1,1 @@
-# SHA-256 do APK oficial — Nexo 2.4.0 (versionCode 7)
-e4c1c9dd8699a477de292dd15eea4a1e969bde8fbb91f609ed98dc1cdf73ac73  app-release.apk
+735f5017c66d48bb0701ce7d90677f2a0b4f51a0b6c4badf90ecaa3e2d72b3e0  app-release.apk

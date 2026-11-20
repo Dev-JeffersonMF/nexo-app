@@ -2,18 +2,18 @@
 
 Este guia mostra como confirmar que o APK do Nexo é **oficial**, antes de instalar.
 
-## Dados oficiais — versão 2.3.0
+## Dados oficiais — versão 3.0.0
 
 | Item | Valor |
 | --- | --- |
 | Arquivo | `app-release.apk` |
-| Tamanho | 480.085.944 bytes (~458 MiB) |
+| Tamanho | 134.994.699 bytes (~129 MiB) |
 | Pacote | `com.jefferson.nexo` |
-| Versão | `2.3.0` (versionCode `6`) |
-| SHA-256 do APK | `4a14663707dbd4d9dfff404bbc26cca85fbf962f72ea4416a06184628b03ed66` |
-| SHA-256 do certificado | `30405b638e6ffa9dfb9f05a72d59896957777a9ffd4903d1f02bd53cd42c95a9` |
-| SHA-1 do certificado | `6afb7a0f24fe23f9fd31ffbe1b5bae613a54fa1d` |
-| Emissor | `CN=NEXO, OU=Android, O=NEXO, L=Matozinhos, ST=MG, C=BR` |
+| Versão | `3.0.0` (versionCode `30`) |
+| SHA-256 do APK | `735f5017c66d48bb0701ce7d90677f2a0b4f51a0b6c4badf90ecaa3e2d72b3e0` |
+| SHA-256 do certificado | `3942b0409a933c87d86c8bdf437601f30ae38b6cc1efc2d8043e140e7db76aff` |
+| SHA-1 do certificado | `fe77d8477eebe9c12434f55ed325a4da9d0c2505` |
+| Emissor | `CN=Jefferson, OU=Nexo, O=Nexo, C=BR` |
 
 O arquivo **`SHA256SUMS.txt`** da Release repete o hash do APK. Ele é a referência de conferência.
 
@@ -50,7 +50,7 @@ shasum -a 256 app-release.apk
 O resultado deve ser exatamente:
 
 ```
-4a14663707dbd4d9dfff404bbc26cca85fbf962f72ea4416a06184628b03ed66
+735f5017c66d48bb0701ce7d90677f2a0b4f51a0b6c4badf90ecaa3e2d72b3e0
 ```
 
 Se você baixou o `SHA256SUMS.txt` junto, pode validar automaticamente:
@@ -108,7 +108,7 @@ aapt2 dump badging app-release.apk | findstr "package:"
 Resultado esperado:
 
 ```
-package: name='com.jefferson.nexo' versionCode='6' versionName='2.3.0'
+package: name='com.jefferson.nexo' versionCode='30' versionName='3.0.0'
 ```
 
 ### No aparelho, após instalar
