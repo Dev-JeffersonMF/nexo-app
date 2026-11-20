@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "package": "com.jefferson.nexo",
-  "version": "3.0.10",
-  "versionCode": 40,
-  "apkUrl": "https://github.com/Dev-JeffersonMF/nexo-app/releases/download/v3.0.10/app-release.apk",
-  "sha256": "4eb90a38788ff0f240a5e45a89a285347659cb67c9567a2570e7b8a422b73ca1",
+  "version": "3.0.11",
+  "versionCode": 41,
+  "apkUrl": "https://github.com/Dev-JeffersonMF/nexo-app/releases/download/v3.0.11/app-release.apk",
+  "sha256": "47f510b9ce6bcf74b724014bb87b1f4e4e658c1a164efc71b5f0e79b5fb61f2a",
   "sizeBytes": 134997903,
-  "notes": "Nexo 3.0.10 (40): mascote flutuante nunca aparece nas telas do sistema Nexo (app/alarme/lembrete).",
+  "notes": "Nexo 3.0.11 (41): mascote flutuante aparece automaticamente ao minimizar o app.",
   "mandatory": false,
   "minSupportedVersionCode": null,
-  "publishedAt": "2026-11-20T20:57:26.933553Z"
+  "publishedAt": "2026-11-20T21:34:54.818288Z"
 }
