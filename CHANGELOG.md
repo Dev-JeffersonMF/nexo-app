@@ -2,7 +2,7 @@
 
 Mudanças relevantes por versão.
 
-## 3.0.13 — versionCode 43
+## 3.0.14 — versionCode 44
 
 - Download automático com arquivo único: a abertura do app não cancela nem reinicia o APK.
 - Mascotes flutuantes Panda, Dragão, Raposa, Robô e Allien ampliados para 130 dp.

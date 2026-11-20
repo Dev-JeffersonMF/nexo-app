@@ -2,13 +2,13 @@
 
 Assistente pessoal para Android, em português, com voz própria e automação do dia a dia.
 
-Versão atual: **3.0.13** (versionCode 43) · pacote `com.jefferson.nexo` · Android 7.0+.
+Versão atual: **3.0.14** (versionCode 44) · pacote `com.jefferson.nexo` · Android 7.0+.
 
 ## Download
 
-O APK assinado está na Release **v3.0.13** deste repositório:
+O APK assinado está na Release **v3.0.14** deste repositório:
 
-https://github.com/Dev-JeffersonMF/nexo-app/releases/tag/v3.0.13
+https://github.com/Dev-JeffersonMF/nexo-app/releases/tag/v3.0.14
 
 Instalação via adb:
 
