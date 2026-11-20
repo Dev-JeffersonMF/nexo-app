@@ -5,6 +5,13 @@ O formato segue [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e o 
 
 ---
 
+## [3.0.5] — 2026-11-20
+
+Botoes Parar/Soneca subiram na tela do alerta; lembretes e alarmes passam a
+falar com a voz Sukuna (Fish Audio) gerada ao criar o lembrete.
+
+---
+
 ## [3.0.4] — 2026-11-20
 
 "Ligar para o contato" passa a ser chamada de VOZ no WhatsApp. Vídeo continua

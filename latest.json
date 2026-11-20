@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "package": "com.jefferson.nexo",
-  "version": "3.0.4",
-  "versionCode": 34,
-  "apkUrl": "https://github.com/Dev-JeffersonMF/nexo-app/releases/download/v3.0.4/app-release.apk",
-  "sha256": "2818bb4aad8b88917b83fef7b8adb63c80573e7112de3e6ecf48272d6068f771",
-  "sizeBytes": 134993575,
-  "notes": "Nexo 3.0.4 (34): ligar para contato faz chamada de voz no WhatsApp; videochamada com video=false/true; telefone so com palavra explicita.",
+  "version": "3.0.5",
+  "versionCode": 35,
+  "apkUrl": "https://github.com/Dev-JeffersonMF/nexo-app/releases/download/v3.0.5/app-release.apk",
+  "sha256": "6b78a762e17dd36f0bd2680a8979f3510ae7021d6e538392c491446d16c77070",
+  "sizeBytes": 134997903,
+  "notes": "Nexo 3.0.5 (35): botoes do alerta subiram e lembretes/alarme falam com a voz Sukuna (Fish Audio).",
   "mandatory": false,
   "minSupportedVersionCode": null,
-  "publishedAt": "2026-11-20T19:28:48.920668Z"
+  "publishedAt": "2026-11-20T19:58:57.535638Z"
 }
