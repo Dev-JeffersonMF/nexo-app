@@ -5,6 +5,13 @@ O formato segue [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e o 
 
 ---
 
+## [3.0.4] — 2026-11-20
+
+"Ligar para o contato" passa a ser chamada de VOZ no WhatsApp. Vídeo continua
+sendo WhatsApp (`video=true`); telefone só com palavra explícita (discar/telefone).
+
+---
+
 ## [3.0.3] — 2026-11-20
 
 Lapidação após a 3.0.0: mídia volta sozinha após o microfone, `parar música`

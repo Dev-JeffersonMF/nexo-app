@@ -1,4 +1,4 @@
-# Erros conhecidos — versão 3.0.3
+# Erros conhecidos — versão 3.0.4
 
 Transparência é parte do projeto. Esta é a lista de problemas conhecidos, com causa, impacto e contorno.
 

@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "package": "com.jefferson.nexo",
-  "version": "3.0.3",
-  "versionCode": 33,
-  "apkUrl": "https://github.com/Dev-JeffersonMF/nexo-app/releases/download/v3.0.3/app-release.apk",
-  "sha256": "72f71df4a6510208d0848051c7d2a989e1486f1f3eda597cc9e6fe8ea4ffa9e6",
-  "sizeBytes": 135002579,
-  "notes": "Nexo 3.0.3 (33): midia volta sozinha apos o microfone, parar musica encerra o player, voz unica sem sobreposicao e lembretes refinados.",
+  "version": "3.0.4",
+  "versionCode": 34,
+  "apkUrl": "https://github.com/Dev-JeffersonMF/nexo-app/releases/download/v3.0.4/app-release.apk",
+  "sha256": "2818bb4aad8b88917b83fef7b8adb63c80573e7112de3e6ecf48272d6068f771",
+  "sizeBytes": 134993575,
+  "notes": "Nexo 3.0.4 (34): ligar para contato faz chamada de voz no WhatsApp; videochamada com video=false/true; telefone so com palavra explicita.",
   "mandatory": false,
   "minSupportedVersionCode": null,
-  "publishedAt": "2026-11-20T19:08:28.231273Z"
+  "publishedAt": "2026-11-20T19:28:48.920668Z"
 }

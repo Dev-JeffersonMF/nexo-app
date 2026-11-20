@@ -6,7 +6,7 @@ O Nexo é um projeto em **evolução contínua**. Esta página registra o que j�
 
 ## Já entregue
 
-### 3.0.3 — voz pela API, auto-bot e WhatsApp/Mídia
+### 3.0.4 — voz pela API, auto-bot e WhatsApp/Mídia
 
 | Área | Melhoria |
 | --- | --- |
