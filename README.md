@@ -4,11 +4,11 @@
 
 **Assistente pessoal para Android, em português, com voz própria e automação do dia a dia.**
 
-[![Versão](https://img.shields.io/badge/vers%C3%A3o-3.0.5-7C5CFF?style=flat-square)](#versão)
+[![Versão](https://img.shields.io/badge/vers%C3%A3o-3.0.6-7C5CFF?style=flat-square)](#versão)
 [![Android](https://img.shields.io/badge/Android-7.0%2B-3DDC84?style=flat-square&logo=android&logoColor=white)](#requisitos)
 [![Licença](https://img.shields.io/badge/licen%C3%A7a-propriet%C3%A1ria-FF4D6D?style=flat-square)](LICENSE.md)
 
-[Download](https://github.com/Dev-JeffersonMF/nexo-app/releases/tag/v3.0.5) · [Notas da versão](CHANGELOG.md) · [Verificação do APK](docs/VERIFICACAO-APK.md) · [Licença](LICENSE.md)
+[Download](https://github.com/Dev-JeffersonMF/nexo-app/releases/tag/v3.0.6) · [Notas da versão](CHANGELOG.md) · [Verificação do APK](docs/VERIFICACAO-APK.md) · [Licença](LICENSE.md)
 
 </div>
 
@@ -18,11 +18,11 @@
 
 | Item | Valor |
 | --- | --- |
-| **Versão atual** | **3.0.5** (`versionCode` 30) |
+| **Versão atual** | **3.0.6** (`versionCode` 30) |
 | **Pacote** | `com.jefferson.nexo` |
 | **Plataforma** | Android 7.0+ (ARM 64/32 bits) |
 | **Idioma** | Português do Brasil |
-| **APK** | `app-release.apk` na [Release v3.0.5](https://github.com/Dev-JeffersonMF/nexo-app/releases/tag/v3.0.5) |
+| **APK** | `app-release.apk` na [Release v3.0.6](https://github.com/Dev-JeffersonMF/nexo-app/releases/tag/v3.0.6) |
 | **Atualização automática** | Manifesto `latest.json` em `Dev-JeffersonMF/nexo-update` |
 
 > **Nexo não é afiliado ao WhatsApp, Meta, Google ou fabricantes de celular.**
@@ -43,7 +43,7 @@ aparelho e toca offline da segunda vez em diante. O TTS do Android é a reserva.
 
 ---
 
-## Novidades da 3.0.5
+## Novidades da 3.0.6
 
 - **Voz sem MP3 no APK** — os 1.107 arquivos antigos ficam fora do bundle; o
   app fala pelo ID da voz Sukuna na Fish Audio e aprende cada frase gerada.
@@ -85,7 +85,7 @@ aparelho e toca offline da segunda vez em diante. O TTS do Android é a reserva.
 
 ## Download e instalação
 
-1. Abra a [Release v3.0.5](https://github.com/Dev-JeffersonMF/nexo-app/releases/tag/v3.0.5)
+1. Abra a [Release v3.0.6](https://github.com/Dev-JeffersonMF/nexo-app/releases/tag/v3.0.6)
    e baixe `app-release.apk`.
 2. Confira o hash em `SHA256SUMS.txt` (ou `docs/VERIFICACAO-APK.md`).
 3. Instale no aparelho. Se vinha de uma versão com assinatura diferente,

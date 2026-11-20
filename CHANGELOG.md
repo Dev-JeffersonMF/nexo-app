@@ -5,6 +5,13 @@ O formato segue [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e o 
 
 ---
 
+## [3.0.6] — 2026-11-20
+
+Alerta fala em loop com a voz Sukuna até Parar/Soneca. Soneca silencia o MP3 e
+volta a falar depois de 5 minutos.
+
+---
+
 ## [3.0.5] — 2026-11-20
 
 Botoes Parar/Soneca subiram na tela do alerta; lembretes e alarmes passam a
