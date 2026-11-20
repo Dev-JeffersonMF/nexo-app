@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "package": "com.jefferson.nexo",
-  "version": "3.0.11",
-  "versionCode": 41,
-  "apkUrl": "https://github.com/Dev-JeffersonMF/nexo-app/releases/download/v3.0.11/app-release.apk",
-  "sha256": "47f510b9ce6bcf74b724014bb87b1f4e4e658c1a164efc71b5f0e79b5fb61f2a",
+  "version": "3.0.12",
+  "versionCode": 42,
+  "apkUrl": "https://github.com/Dev-JeffersonMF/nexo-app/releases/download/v3.0.12/app-release.apk",
+  "sha256": "0d80e20a6d5e7902974832433f2c65e051b11773bf1223b55e8838eb7b6da2f3",
   "sizeBytes": 134997903,
-  "notes": "Nexo 3.0.11 (41): mascote flutuante aparece automaticamente ao minimizar o app.",
+  "notes": "Nexo 3.0.12 (42): mascotes flutuantes ajustados; Tratis usa o icone da tela do Nexo.",
   "mandatory": false,
   "minSupportedVersionCode": null,
-  "publishedAt": "2026-11-20T21:34:54.818288Z"
+  "publishedAt": "2026-11-20T21:50:22.385842Z"
 }
