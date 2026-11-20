@@ -5,6 +5,20 @@ O formato segue [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e o 
 
 ---
 
+## [3.0.3] — 2026-11-20
+
+Lapidação após a 3.0.0: mídia volta sozinha após o microfone, `parar música`
+encerra o player, voz única sem sobreposição e tela de lembretes refinada.
+
+### Corrigido
+- Microfone pausa a mídia e a devolve automaticamente quando a captura fecha.
+- `pular`, `voltar`, `continuar` e `parar` são enviados ao player identificado.
+- `parar música` usa STOP de mídia e encerra o OiTube/YouTube.
+- Sukuna (Fish Audio) e TTS nunca falam ao mesmo tempo (`_tokenFala`).
+- Lembretes: horário pelo texto, edição, confirmação ao apagar e datas legíveis.
+
+---
+
 ## [3.0.0] — 2026-11-20
 
 Versão 3.0.0 (`versionCode` 30). Voz pela Fish Audio sem MP3 no APK, fala frase

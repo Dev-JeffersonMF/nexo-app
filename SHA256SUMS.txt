@@ -1,1 +1,1 @@
-735f5017c66d48bb0701ce7d90677f2a0b4f51a0b6c4badf90ecaa3e2d72b3e0  app-release.apk
+72f71df4a6510208d0848051c7d2a989e1486f1f3eda597cc9e6fe8ea4ffa9e6  app-release.apk
