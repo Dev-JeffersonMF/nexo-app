@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "package": "com.jefferson.nexo",
-  "version": "3.0.6",
-  "versionCode": 36,
-  "apkUrl": "https://github.com/Dev-JeffersonMF/nexo-app/releases/download/v3.0.6/app-release.apk",
-  "sha256": "5b0d752a01a652760b21d63be6327db7a5dd19535a8ddf4dffea022e9ae234be",
+  "version": "3.0.10",
+  "versionCode": 40,
+  "apkUrl": "https://github.com/Dev-JeffersonMF/nexo-app/releases/download/v3.0.10/app-release.apk",
+  "sha256": "4eb90a38788ff0f240a5e45a89a285347659cb67c9567a2570e7b8a422b73ca1",
   "sizeBytes": 134997903,
-  "notes": "Nexo 3.0.6 (36): alerta fala em loop com voz Sukuna ate Parar/Soneca; Soneca silencia e volta em 5 minutos.",
+  "notes": "Nexo 3.0.10 (40): mascote flutuante nunca aparece nas telas do sistema Nexo (app/alarme/lembrete).",
   "mandatory": false,
   "minSupportedVersionCode": null,
-  "publishedAt": "2026-11-20T20:09:08.170040Z"
+  "publishedAt": "2026-11-20T20:57:26.933553Z"
 }
