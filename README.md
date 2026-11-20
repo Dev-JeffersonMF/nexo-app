@@ -23,7 +23,7 @@
 | **Plataforma** | Android 7.0+ (ARM 64/32 bits) |
 | **Idioma** | Português do Brasil |
 | **APK** | `app-release.apk` na [Release v3.0.6](https://github.com/Dev-JeffersonMF/nexo-app/releases/tag/v3.0.6) |
-| **Atualização automática** | Manifesto `latest.json` em `Dev-JeffersonMF/nexo-update` |
+| **Atualização automática** | Manifesto `latest.json` neste repositório (`Dev-JeffersonMF/nexo-app`) |
 
 > **Nexo não é afiliado ao WhatsApp, Meta, Google ou fabricantes de celular.**
 > Automação de apps de terceiros exige consentimento do usuário (serviço de
@@ -94,7 +94,7 @@ aparelho e toca offline da segunda vez em diante. O TTS do Android é a reserva.
    para o Auto-Bot.
 
 > A atualização automática usa o manifesto público
-> `https://raw.githubusercontent.com/Dev-JeffersonMF/nexo-update/main/latest.json`.
+> `https://raw.githubusercontent.com/Dev-JeffersonMF/nexo-app/main/latest.json`.
 
 ---
 
