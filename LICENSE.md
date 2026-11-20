@@ -65,28 +65,13 @@ A violação desta licença **encerra automaticamente** os direitos concedidos n
 
 ---
 
-## 4. Verificação de autenticidade
-
-A versão oficial é identificada por:
-
-| Item | Valor |
-| --- | --- |
-| Pacote | `com.jefferson.nexo` |
-| Certificado de assinatura (SHA-256) | `30405b638e6ffa9dfb9f05a72d59896957777a9ffd4903d1f02bd53cd42c95a9` |
-| SHA-1 do certificado | `6afb7a0f24fe23f9fd31ffbe1b5bae613a54fa1d` |
-| Emissor | `CN=NEXO, OU=Android, O=NEXO, L=Matozinhos, ST=MG, C=BR` |
-
-O hash SHA-256 de cada APK é publicado no arquivo `SHA256SUMS.txt` da respectiva Release. **Se o hash ou a assinatura não corresponderem, o aplicativo não é oficial.**
-
----
-
-## 5. Componentes de terceiros
+## 4. Componentes de terceiros
 
 O Software utiliza bibliotecas de terceiros distribuídas sob suas próprias licenças (MIT, Apache-2.0, ISC e outras). Essas licenças permanecem válidas e prevaleccem sobre esta, no que diz respeito aos respectivos componentes. Nada nesta licença restringe direitos que você tenha sobre esses componentes open source.
 
 ---
 
-## 6. Isenção de garantias
+## 5. Isenção de garantias
 
 O Software é fornecido **“no estado em que se encontra”** (“AS IS”), **sem garantias de qualquer tipo**, expressas ou implícitas, incluindo, sem limitação, garantias de comercialização, adequação a um propósito específico, não violação, disponibilidade, precisão ou ausência de erros.
 
@@ -100,7 +85,7 @@ O uso de recursos de acessibilidade e de automação de aplicativos de terceiros
 
 ---
 
-## 7. Limitação de responsabilidade
+## 6. Limitação de responsabilidade
 
 Na máxima extensão permitida pela lei, o autor **não será responsável** por:
 
@@ -111,7 +96,7 @@ Na máxima extensão permitida pela lei, o autor **não será responsável** por
 
 ---
 
-## 8. Atualizações e suporte
+## 7. Atualizações e suporte
 
 O autor pode, a seu critério, lançar atualizações, corrigir erros ou descontinuar o Software, sem obrigação de fornecer suporte, manutenção ou compatibilidade futura.
 
@@ -119,7 +104,7 @@ O suporte oficial é prestado exclusivamente pelos canais indicados neste reposi
 
 ---
 
-## 9. Rescisão
+## 8. Rescisão
 
 Esta licença termina automaticamente se você violar qualquer condição aqui prevista. Ao término, você deve cessar o uso e excluir todas as cópias do Software.
 
@@ -127,13 +112,13 @@ As seções 2, 3, 5, 6, 7 e 10 sobrevivem ao término.
 
 ---
 
-## 10. Lei aplicável e foro
+## 9. Lei aplicável e foro
 
 Esta licença é regida pelas leis da **República Federativa do Brasil**. Fica eleito o foro do domicílio do autor para dirimir eventuais controvérsias, salvo disposição legal em contrário.
 
 ---
 
-## 11. Contato
+## 10. Contato
 
 Para autorizações, dúvidas ou denúncias de pirataria, abra uma issue neste repositório ou utilize o contato indicado em [SECURITY.md](SECURITY.md).
 
